@@ -1,0 +1,2 @@
+[2026-05-28T16:01:39.257Z] [INFO] Zenova backend listening on http://localhost:5000 (development)
+[2026-05-28T16:01:41.755Z] [INFO] [0mGET /api/health [32m200[0m 3.799 ms - 72[0m

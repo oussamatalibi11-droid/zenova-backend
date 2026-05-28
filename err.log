@@ -1,0 +1,2 @@
+[config] Missing required env vars: SMTP_USER, SMTP_PASS — running in dev mode, continuing.
+[2026-05-28T16:01:39.595Z] [WARN] SMTP verify failed: Missing credentials for "PLAIN"
